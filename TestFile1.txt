@@ -1,0 +1,7 @@
+A1 | karthik| karthik
+A2 | kannan | karthik
+A3 | krishnan | krishnan
+A6 | kumar | kandhan
+A7 | kumar | kandhan
+A8 | kumar | kandhan
+A9 | kumar | kandhan
